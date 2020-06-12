@@ -10,7 +10,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 20rem;
+    padding-left: 16rem;
   }
 }
 
@@ -115,7 +115,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 20rem;
+    width: 16rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -124,9 +124,9 @@ p.lead {
     padding: 0.0rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 12rem;
-    max-height: 12rem;
-    border: 0.1rem solid rgba(255, 255, 255, 0.2);
+    max-width: 11rem;
+    max-height: 11rem;
+    border: 0.2rem solid rgba(255, 255, 255, 0.2);
     border-radius: 25px;
     
   }
