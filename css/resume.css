@@ -7,10 +7,30 @@ body {
   background-size: cover;
 }
 
+.profile-header {
+  width: 150px;
+  align-items: center;
+  height: 150px;
+  padding-top: 2rem;
+  top: -100px;
+  align-self: center;
+}
+.profile-icon{
+  max-width: 100%;
+
+}
+.border-profile{
+  border: 0.2rem solid rgba(2, 0, 0, 0.5);
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 16rem;
+  }
+
+  .profile-header {
+    display: none;
   }
 }
 
@@ -29,10 +49,13 @@ h6 {
 h1 {
   font-size: 3rem;
   line-height: 5.5rem;
+  text-align: center;
+  padding-top: 60px;
 }
 
 h2 {
   font-size: 3.5rem;
+  text-align: center;
 }
 
 h3 {
@@ -84,6 +107,10 @@ p.lead {
   left: 50%;
   margin-left: -45px;
 }
+
+
+
+
 .skill-icon{
   margin-top: -12px !important;
   max-width: 60%;
@@ -105,7 +132,14 @@ p.lead {
   h1 {
     font-size: 4rem;
     line-height: 5.5rem;
+    text-align: left;
+    padding-top: 0px;
   }
+  h2 {
+    text-align: left;
+  }
+
+
 
   #sideNav {
     text-align: center;
