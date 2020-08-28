@@ -51,11 +51,13 @@ h1 {
   line-height: 5.5rem;
   text-align: center;
   padding-top: 60px;
+  color: #444444;
 }
 
 h2 {
   font-size: 3.5rem;
   text-align: center;
+  color: #444444;
 }
 
 h3 {
