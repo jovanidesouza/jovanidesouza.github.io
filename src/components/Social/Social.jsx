@@ -15,7 +15,7 @@ const Social = () => (
         <a href="mailto:jovanidesouza@hotmail.com">
           <FaEnvelope className="social_icons" />
         </a>
-        <a href="mailto:jovanidesouza@hotmail.com">
+        <a href="https://www.instagram.com/jovaniiiii/">
           <FaInstagram className="social_icons" />
         </a>
         <a href="https://discord.io/user/Dijos#5994">
