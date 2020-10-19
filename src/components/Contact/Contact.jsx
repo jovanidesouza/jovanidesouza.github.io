@@ -19,7 +19,7 @@ const Contact = () => {
               {cta}
             </p>
             <span className="back-to-top">
-              <Link to="social" smooth duration={1000}>
+              <Link to="about" smooth duration={1000}>
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
