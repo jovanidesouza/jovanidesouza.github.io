@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaDiscord, FaInstagram } from 'react-
 import { Row } from 'react-bootstrap';
 
 const Social = () => (
-    <Fade duration={1000} delay={200} distance="10px" id="social">
+    <Fade duration={100} delay={200} distance="10px" id="social">
       <Row>
         <a href="https://www.linkedin.com/in/jovani-de-souza-94ba9b67/">
           <FaLinkedin className="social_icons" />

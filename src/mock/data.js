@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'My name is Jovani de Souza, I have a BSc degree in Computer Science at Federal University of Fronteira Sul (UFFS). I currently work as Quality Assurance Analyst and Software Developer.',
   paragraphTwo:
-    'I have interest in Software Development and Project Management. I also like to work with Data Analytics and Internet of Things, especially with Hardware Prototype and Smart Devices',
+    'I have interest in Software Development and Project Management. I also like to work with Data Analytics and Internet of Things, especially with Hardware Prototype and Smart Devices.',
   paragraphThree: 'To know more, check my Socials and Portfolio below.',
   resume: 'https://github.com/jovanidesouza',
 };
