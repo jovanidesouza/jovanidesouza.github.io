@@ -1,14 +1,14 @@
-# Portfolio ⚡️
+# Portfolio 
 
 The source code of my personal Web Site
 
-## Template 🚀
+## Template 
 
 Build with [Simplefolio](https://github.com/cobidev/gatsby-simplefolio) template.
 
 Using React and Gatsby
 
-## How To Use 🔧
+## How To Use 
 
 From your command line:
 
