@@ -1,6 +1,6 @@
 # Portfolio 
 
-The source code of my personal Web Site
+The source code of my personal website.
 
 ## Template 
 
