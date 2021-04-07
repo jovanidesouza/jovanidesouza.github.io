@@ -38,16 +38,7 @@ export const projectsData = [
     url: 'https://jovanidesouza.github.io/raspbox/',
     repo: 'https://github.com/jovanidesouza/raspbox',
   },
-  {
-    id: nanoid(),
-    img: 'imc.png',
-    title: 'Calculadora IMC',
-    info:
-      "Uma Calculadora simples de Índice de massa corporal (IMC), utilizando Flutter.",
-    info2: '',
-    url: 'https://github.com/jovanidesouza/imc_calc',
-    repo: 'https://github.com/jovanidesouza/imc_calc',
-  },
+ 
   // {
   //  id: nanoid(),
   //  img: 'project.jpg',
